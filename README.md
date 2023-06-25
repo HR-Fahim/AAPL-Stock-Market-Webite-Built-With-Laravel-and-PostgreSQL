@@ -446,5 +446,5 @@ Finally, completed building a simple stock market website using Visual Studio 20
 
 ## License
 
-The codes in this repository is licensed under the [MIT License](LICENSE).
+The codes in this repository are licensed under the [MIT License](LICENSE).
 
