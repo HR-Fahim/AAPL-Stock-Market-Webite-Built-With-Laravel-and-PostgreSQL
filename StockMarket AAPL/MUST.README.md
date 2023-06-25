@@ -1,1 +1,1 @@
-Project folder name was converted into 'StockMarket AAPL'; If facing any issues let me know!
+Project folder name was renamed as 'StockMarket AAPL'; If facing any issues let me know!
