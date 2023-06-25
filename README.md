@@ -2,7 +2,8 @@
 
 This repository shows the process of building a simple website that displays recent AAPL stock market values fetched from a CSV file. The website will be built using Visual Studio 2022 and the Laravel framework. Additionally, the stock data will be stored in a PostgreSQL database.
 
-![Stock Chart](https://github.com/HR-Fahim/PHP-Laravel/assets/66734379/3f1e1f31-7057-47fe-9710-b52684f7a03b)
+![Stock Chart](https://github.com/HR-Fahim/AAPL-Stock-Market-Site-Using-Laravel-and-PostgreSQL/assets/66734379/db9544a0-87c1-4fa3-946c-d3f4c0b554ab)
+
 
 ### Prerequisites
 
